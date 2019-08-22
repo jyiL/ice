@@ -2,7 +2,7 @@
  * create-react-app + kit 3.0
  */
 import { checkAliInternal } from 'ice-npm-utils';
-import getBaseAdapter from '../adapter';
+import getBaseAdapter from '../../../adapter';
 import Router from './modules/router';
 
 export default async (i18n) => {

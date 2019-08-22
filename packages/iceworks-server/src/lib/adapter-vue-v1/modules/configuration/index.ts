@@ -1,5 +1,5 @@
 import * as path from 'path';
-import { baseModules } from '../../../adapter';
+import { baseModules } from '../../../../../adapter';
 import getConfigSchema from './getConfigSchema';
 
 export default class Configuration extends baseModules.Configuration {

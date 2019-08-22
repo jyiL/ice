@@ -2,7 +2,7 @@
  * icescripts 2.0 + kit 2.0
  */
 import { checkAliInternal } from 'ice-npm-utils';
-import getBaseAdapter from '../adapter';
+import getBaseAdapter from '../../../adapter';
 import Menu from './modules/menu';
 import Router from './modules/router';
 

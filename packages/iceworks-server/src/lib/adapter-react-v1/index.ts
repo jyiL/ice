@@ -2,7 +2,7 @@
  * icescripts 2.0 + kit 1.0
  */
 import { checkAliInternal } from 'ice-npm-utils';
-import getBaseAdapter from '../adapter';
+import getBaseAdapter from '../../../adapter';
 
 export default async (i18n) => {
   const baseAdapter = await getBaseAdapter(i18n);

@@ -1,5 +1,5 @@
 import { checkAliInternal } from 'ice-npm-utils';
-import getBaseAdapter from '../adapter';
+import getBaseAdapter from '../../../adapter';
 import Configuration from './modules/configuration';
 import Task from './modules/task';
 

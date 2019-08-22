@@ -1,4 +1,4 @@
-import { baseModules } from '../../../adapter';
+import { baseModules } from '../../../../../adapter';
 
 export default class Router extends baseModules.Router {
   public noPathPrefix: boolean;

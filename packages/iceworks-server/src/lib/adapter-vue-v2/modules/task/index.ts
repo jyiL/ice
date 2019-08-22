@@ -1,5 +1,5 @@
 import * as path from 'path';
-import { baseModules } from '../../../adapter';
+import { baseModules } from '../../../../../adapter';
 import getTaskConfig from './getTaskConfig';
 
 export default class Task extends baseModules.Task {

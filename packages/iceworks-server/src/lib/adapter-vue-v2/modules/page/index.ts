@@ -1,5 +1,5 @@
 import * as path from 'path';
-import { baseModules } from '../../../adapter';
+import { baseModules } from '../../../../../adapter';
 import { IProject } from '../../../../interface';
 
 export default class Page extends baseModules.Page {
